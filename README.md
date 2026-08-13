@@ -5,56 +5,42 @@
   </a>
 </div>
 
-<!-- Tautan Website & Penghitung Pengunjung -->
+<!-- Sosial Media / Tautan -->
 <div align="center">
-  <a href="https://dhrigo.biz.id">
-    <img src="https://img.shields.io/badge/Portofolio-dhrigo.biz.id-0F172A?style=for-the-badge&logo=google-chrome&logoColor=3B82F6" alt="Website" />
+  <a href="https://dhrigo.biz.id" target="_blank">
+    <img src="https://img.shields.io/badge/Portofolio-dhrigo.biz.id-0D1117?style=for-the-badge&logo=googlechrome&logoColor=3B82F6" alt="Website" />
   </a>
-  <br><br>
-  <!-- Menghitung jumlah orang yang melihat profil Anda -->
-  <img src="https://komarev.com/ghpvc/?username=Dhrigo&label=Profile%20Views&color=3B82F6&style=flat-square" alt="Visitor Count" />
 </div>
-<br/>
+
+<br>
+
+<div align="center">
+  <img src="Dhrigo.svg" alt="Dhrigo Terminal Profile" width="700" />
+</div>
+
+<br>
 
 ### 🛠️ Tech Stack & Tools
 
-<div align="center">
-  <!-- Skill Icons (Otomatis seragam dan presisi) -->
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,php,mysql,gcp,vercel,linux,git,github,gitlab&theme=dark" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=laravel,php,mysql,gcp,vercel,linux,git,github,gitlab&perline=9&theme=dark" alt="Tech Stack" />
   </a>
-</div>
-<br/>
+</p>
 
-### 📊 GitHub Metrics & Analytics
+<br>
 
-<!-- 1. Grafik Piala (Trophies) Pencapaian -->
+### 📊 GitHub Stats & Analytics
+
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Dhrigo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
-  </a>
-</div>
-<br/>
-
-<!-- 2 & 3. Statistik Utama & Komposisi Bahasa Pemrograman -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhrigo&show_icons=true&theme=tokyonight&hide_border=true&title_color=3B82F6" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhrigo&layout=compact&theme=tokyonight&hide_border=true&title_color=3B82F6" width="48%" alt="Top Languages" />
-</div>
-<br/>
-
-<!-- 4. Grafik Konsistensi Koding (Streak Stats) -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhrigo&theme=tokyonight&hide_border=true&title_color=3B82F6" width="100%" alt="GitHub Streak" />
-</div>
-<br/>
-
-<!-- 5. Grafik Garis Dinamis (Aktivitas Bulanan) -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhrigo&bg_color=1A1B27&color=3B82F6&line=3B82F6&point=FFFFFF&hide_border=true" width="100%" alt="Activity Graph" />
+  <!-- Layout Bersih: Statistik & Bahasa Pemrograman -->
+  <img src="https://github-readme-stats-sigma-rouge.vercel.app/api?username=Dhrigo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" />
+  <img src="https://github-readme-stats-sigma-rouge.vercel.app/api/top-langs/?username=Dhrigo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
 </div>
 
-<br/>
+<br>
 
-<!-- Garis bawah pembatas -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Pembatas Halaman" />
+<!-- Footer Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=100&section=footer" alt="Footer Banner" />
+</p>
